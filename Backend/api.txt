@@ -1,0 +1,52 @@
+===========================================================
+Essential REST APIs
+1.User/Session
+2.Create or authenticate user/guest
+3.Get user profile and stats
+
+Rooms
+1.Create room (POST)
+2.List available rooms (GET)
+3.Join/leave room (POST/DELETE)
+4.Get room details (GET)
+
+Game Lifecycle
+1.Start game (POST)
+2.End game (POST)
+3.Fetch game state (GET)
+
+Words
+1.Get word list/word for round (GET)
+
+Scores
+1.Get current scores/leaderboard (GET)
+
+============================================================
+Real-time Socket Events
+
+1.Room events
+'joinRoom': User joins a room
+'leaveRoom': User leaves
+
+2.Drawing events
+'draw': Sends real-time drawing data to all clients
+'clearCanvas': Clears drawing board
+
+3.Game events
+'startGame': Begins the game
+'nextTurn': Assigns next drawing/guessing player
+'gameUpdate': Broadcast current round/game state
+'endGame': Signals game end
+
+4.Chat events
+'sendMessage': Player sends chat/guess
+'correctGuess': Someone guesses the word
+'chatUpdate': Broadcast chat to room
+
+============================================
+
+Optional/Advanced
+Kick player from room (POST/socket event)
+Change settings (room rounds, time, etc.)
+Profile/avatar customization (upload, fetch)
+Profanity filtering for messages
