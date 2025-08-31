@@ -1,0 +1,2956 @@
+[
+    {
+        "roomID": "eaml9ecc",
+        "players": [
+            {
+                "socketId": "socket43967",
+                "username": "George15",
+                "score": 2
+            },
+            {
+                "socketId": "socket20988",
+                "username": "David32",
+                "score": 11
+            },
+            {
+                "socketId": "socket30092",
+                "username": "Alice75",
+                "score": 5
+            }
+        ],
+        "currentWord": "car",
+        "round": 2,
+        "drawerSocketId": "socket43967",
+        "roundTime": 60,
+        "scores": {
+            "socket43967": 2,
+            "socket20988": 11,
+            "socket30092": 5
+        }
+    },
+    {
+        "roomID": "eab1v9vq",
+        "players": [
+            {
+                "socketId": "socket48633",
+                "username": "Bob21",
+                "score": 13
+            },
+            {
+                "socketId": "socket35355",
+                "username": "Charlie3",
+                "score": 13
+            }
+        ],
+        "currentWord": "tree",
+        "round": 2,
+        "drawerSocketId": "socket35355",
+        "roundTime": 60,
+        "scores": {
+            "socket48633": 13,
+            "socket35355": 13
+        }
+    },
+    {
+        "roomID": "zfdzluza",
+        "players": [
+            {
+                "socketId": "socket82049",
+                "username": "Hannah27",
+                "score": 6
+            },
+            {
+                "socketId": "socket4042",
+                "username": "Julia79",
+                "score": 18
+            },
+            {
+                "socketId": "socket46457",
+                "username": "George58",
+                "score": 9
+            },
+            {
+                "socketId": "socket26976",
+                "username": "Ivan15",
+                "score": 1
+            }
+        ],
+        "currentWord": "house",
+        "round": 2,
+        "drawerSocketId": "socket4042",
+        "roundTime": 60,
+        "scores": {
+            "socket82049": 6,
+            "socket4042": 18,
+            "socket46457": 9,
+            "socket26976": 1
+        }
+    },
+    {
+        "roomID": "out9gdvx",
+        "players": [
+            {
+                "socketId": "socket24641",
+                "username": "Bob81",
+                "score": 5
+            },
+            {
+                "socketId": "socket7252",
+                "username": "Julia58",
+                "score": 13
+            },
+            {
+                "socketId": "socket10247",
+                "username": "David25",
+                "score": 16
+            }
+        ],
+        "currentWord": "computer",
+        "round": 4,
+        "drawerSocketId": "socket24641",
+        "roundTime": 60,
+        "scores": {
+            "socket24641": 5,
+            "socket7252": 13,
+            "socket10247": 16
+        }
+    },
+    {
+        "roomID": "vhc645gp",
+        "players": [
+            {
+                "socketId": "socket37170",
+                "username": "Charlie7",
+                "score": 1
+            },
+            {
+                "socketId": "socket21930",
+                "username": "Julia96",
+                "score": 15
+            },
+            {
+                "socketId": "socket76500",
+                "username": "Eva57",
+                "score": 5
+            }
+        ],
+        "currentWord": "car",
+        "round": 3,
+        "drawerSocketId": "socket76500",
+        "roundTime": 60,
+        "scores": {
+            "socket37170": 1,
+            "socket21930": 15,
+            "socket76500": 5
+        }
+    },
+    {
+        "roomID": "r1yxnas7",
+        "players": [
+            {
+                "socketId": "socket54872",
+                "username": "Eva46",
+                "score": 17
+            },
+            {
+                "socketId": "socket21526",
+                "username": "Charlie39",
+                "score": 11
+            },
+            {
+                "socketId": "socket60128",
+                "username": "George7",
+                "score": 16
+            },
+            {
+                "socketId": "socket15909",
+                "username": "Bob7",
+                "score": 6
+            }
+        ],
+        "currentWord": "car",
+        "round": 2,
+        "drawerSocketId": "socket21526",
+        "roundTime": 60,
+        "scores": {
+            "socket54872": 17,
+            "socket21526": 11,
+            "socket60128": 16,
+            "socket15909": 6
+        }
+    },
+    {
+        "roomID": "fuguw6rv",
+        "players": [
+            {
+                "socketId": "socket82211",
+                "username": "Hannah46",
+                "score": 19
+            },
+            {
+                "socketId": "socket87109",
+                "username": "Bob57",
+                "score": 7
+            },
+            {
+                "socketId": "socket13661",
+                "username": "Eva67",
+                "score": 15
+            }
+        ],
+        "currentWord": "flower",
+        "round": 1,
+        "drawerSocketId": "socket82211",
+        "roundTime": 60,
+        "scores": {
+            "socket82211": 19,
+            "socket87109": 7,
+            "socket13661": 15
+        }
+    },
+    {
+        "roomID": "h0bgw4z5",
+        "players": [
+            {
+                "socketId": "socket81017",
+                "username": "Ivan17",
+                "score": 6
+            },
+            {
+                "socketId": "socket88065",
+                "username": "Alice25",
+                "score": 16
+            },
+            {
+                "socketId": "socket78878",
+                "username": "Julia90",
+                "score": 15
+            },
+            {
+                "socketId": "socket26399",
+                "username": "Hannah29",
+                "score": 4
+            }
+        ],
+        "currentWord": "phone",
+        "round": 5,
+        "drawerSocketId": "socket88065",
+        "roundTime": 60,
+        "scores": {
+            "socket81017": 6,
+            "socket88065": 16,
+            "socket78878": 15,
+            "socket26399": 4
+        }
+    },
+    {
+        "roomID": "0vbbc958",
+        "players": [
+            {
+                "socketId": "socket89821",
+                "username": "Fiona29",
+                "score": 2
+            },
+            {
+                "socketId": "socket88725",
+                "username": "Ivan74",
+                "score": 11
+            },
+            {
+                "socketId": "socket2291",
+                "username": "Charlie19",
+                "score": 5
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 2,
+        "drawerSocketId": "socket88725",
+        "roundTime": 60,
+        "scores": {
+            "socket89821": 2,
+            "socket88725": 11,
+            "socket2291": 5
+        }
+    },
+    {
+        "roomID": "2numb9wa",
+        "players": [
+            {
+                "socketId": "socket86202",
+                "username": "George68",
+                "score": 6
+            },
+            {
+                "socketId": "socket47917",
+                "username": "Charlie54",
+                "score": 7
+            },
+            {
+                "socketId": "socket62992",
+                "username": "Fiona46",
+                "score": 1
+            },
+            {
+                "socketId": "socket50398",
+                "username": "Eva36",
+                "score": 16
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 3,
+        "drawerSocketId": "socket50398",
+        "roundTime": 60,
+        "scores": {
+            "socket86202": 6,
+            "socket47917": 7,
+            "socket62992": 1,
+            "socket50398": 16
+        }
+    },
+    {
+        "roomID": "mbdihro7",
+        "players": [
+            {
+                "socketId": "socket45401",
+                "username": "Fiona62",
+                "score": 16
+            },
+            {
+                "socketId": "socket94369",
+                "username": "Julia18",
+                "score": 10
+            },
+            {
+                "socketId": "socket54966",
+                "username": "Fiona8",
+                "score": 17
+            },
+            {
+                "socketId": "socket47998",
+                "username": "David62",
+                "score": 6
+            }
+        ],
+        "currentWord": "phone",
+        "round": 5,
+        "drawerSocketId": "socket45401",
+        "roundTime": 60,
+        "scores": {
+            "socket45401": 16,
+            "socket94369": 10,
+            "socket54966": 17,
+            "socket47998": 6
+        }
+    },
+    {
+        "roomID": "xq9h12ph",
+        "players": [
+            {
+                "socketId": "socket8254",
+                "username": "David99",
+                "score": 9
+            },
+            {
+                "socketId": "socket88064",
+                "username": "Eva80",
+                "score": 13
+            },
+            {
+                "socketId": "socket45573",
+                "username": "Julia69",
+                "score": 14
+            },
+            {
+                "socketId": "socket47704",
+                "username": "Bob16",
+                "score": 0
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 4,
+        "drawerSocketId": "socket88064",
+        "roundTime": 60,
+        "scores": {
+            "socket8254": 9,
+            "socket88064": 13,
+            "socket45573": 14,
+            "socket47704": 0
+        }
+    },
+    {
+        "roomID": "tbykkfjm",
+        "players": [
+            {
+                "socketId": "socket78506",
+                "username": "Alice64",
+                "score": 15
+            },
+            {
+                "socketId": "socket50616",
+                "username": "Fiona80",
+                "score": 5
+            },
+            {
+                "socketId": "socket65064",
+                "username": "Hannah36",
+                "score": 8
+            },
+            {
+                "socketId": "socket28558",
+                "username": "Charlie98",
+                "score": 5
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 1,
+        "drawerSocketId": "socket65064",
+        "roundTime": 60,
+        "scores": {
+            "socket78506": 15,
+            "socket50616": 5,
+            "socket65064": 8,
+            "socket28558": 5
+        }
+    },
+    {
+        "roomID": "zsr86fuc",
+        "players": [
+            {
+                "socketId": "socket65150",
+                "username": "Hannah0",
+                "score": 19
+            },
+            {
+                "socketId": "socket42025",
+                "username": "Eva68",
+                "score": 13
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 2,
+        "drawerSocketId": "socket42025",
+        "roundTime": 60,
+        "scores": {
+            "socket65150": 19,
+            "socket42025": 13
+        }
+    },
+    {
+        "roomID": "vodoecyi",
+        "players": [
+            {
+                "socketId": "socket76322",
+                "username": "Ivan61",
+                "score": 6
+            },
+            {
+                "socketId": "socket61366",
+                "username": "Fiona94",
+                "score": 16
+            },
+            {
+                "socketId": "socket95833",
+                "username": "Charlie38",
+                "score": 2
+            },
+            {
+                "socketId": "socket79984",
+                "username": "Alice67",
+                "score": 8
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 3,
+        "drawerSocketId": "socket79984",
+        "roundTime": 60,
+        "scores": {
+            "socket76322": 6,
+            "socket61366": 16,
+            "socket95833": 2,
+            "socket79984": 8
+        }
+    },
+    {
+        "roomID": "serp4ick",
+        "players": [
+            {
+                "socketId": "socket94490",
+                "username": "George17",
+                "score": 18
+            },
+            {
+                "socketId": "socket33174",
+                "username": "Fiona97",
+                "score": 2
+            },
+            {
+                "socketId": "socket21412",
+                "username": "Fiona15",
+                "score": 6
+            },
+            {
+                "socketId": "socket66550",
+                "username": "Eva78",
+                "score": 0
+            }
+        ],
+        "currentWord": "tree",
+        "round": 3,
+        "drawerSocketId": "socket33174",
+        "roundTime": 60,
+        "scores": {
+            "socket94490": 18,
+            "socket33174": 2,
+            "socket21412": 6,
+            "socket66550": 0
+        }
+    },
+    {
+        "roomID": "v1nsxauu",
+        "players": [
+            {
+                "socketId": "socket21254",
+                "username": "Charlie36",
+                "score": 18
+            },
+            {
+                "socketId": "socket43421",
+                "username": "George53",
+                "score": 19
+            },
+            {
+                "socketId": "socket13846",
+                "username": "Fiona92",
+                "score": 18
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 4,
+        "drawerSocketId": "socket21254",
+        "roundTime": 60,
+        "scores": {
+            "socket21254": 18,
+            "socket43421": 19,
+            "socket13846": 18
+        }
+    },
+    {
+        "roomID": "ozzkvpbs",
+        "players": [
+            {
+                "socketId": "socket6975",
+                "username": "Hannah26",
+                "score": 9
+            },
+            {
+                "socketId": "socket89105",
+                "username": "Eva24",
+                "score": 6
+            }
+        ],
+        "currentWord": "flower",
+        "round": 2,
+        "drawerSocketId": "socket6975",
+        "roundTime": 60,
+        "scores": {
+            "socket6975": 9,
+            "socket89105": 6
+        }
+    },
+    {
+        "roomID": "n5c3wq4z",
+        "players": [
+            {
+                "socketId": "socket24584",
+                "username": "David5",
+                "score": 4
+            },
+            {
+                "socketId": "socket39928",
+                "username": "David23",
+                "score": 16
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 3,
+        "drawerSocketId": "socket39928",
+        "roundTime": 60,
+        "scores": {
+            "socket24584": 4,
+            "socket39928": 16
+        }
+    },
+    {
+        "roomID": "wljxisky",
+        "players": [
+            {
+                "socketId": "socket21719",
+                "username": "Julia88",
+                "score": 1
+            },
+            {
+                "socketId": "socket37544",
+                "username": "Eva16",
+                "score": 6
+            },
+            {
+                "socketId": "socket95746",
+                "username": "Fiona67",
+                "score": 19
+            },
+            {
+                "socketId": "socket31834",
+                "username": "Charlie50",
+                "score": 16
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 4,
+        "drawerSocketId": "socket95746",
+        "roundTime": 60,
+        "scores": {
+            "socket21719": 1,
+            "socket37544": 6,
+            "socket95746": 19,
+            "socket31834": 16
+        }
+    },
+    {
+        "roomID": "0p2jbcf4",
+        "players": [
+            {
+                "socketId": "socket18834",
+                "username": "Ivan5",
+                "score": 6
+            },
+            {
+                "socketId": "socket66992",
+                "username": "George85",
+                "score": 15
+            },
+            {
+                "socketId": "socket9978",
+                "username": "Eva1",
+                "score": 16
+            },
+            {
+                "socketId": "socket97807",
+                "username": "Eva87",
+                "score": 3
+            }
+        ],
+        "currentWord": "house",
+        "round": 3,
+        "drawerSocketId": "socket66992",
+        "roundTime": 60,
+        "scores": {
+            "socket18834": 6,
+            "socket66992": 15,
+            "socket9978": 16,
+            "socket97807": 3
+        }
+    },
+    {
+        "roomID": "4qkd7k1e",
+        "players": [
+            {
+                "socketId": "socket36304",
+                "username": "Fiona9",
+                "score": 4
+            },
+            {
+                "socketId": "socket77546",
+                "username": "Ivan31",
+                "score": 7
+            },
+            {
+                "socketId": "socket39172",
+                "username": "George78",
+                "score": 17
+            },
+            {
+                "socketId": "socket53308",
+                "username": "Hannah29",
+                "score": 6
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 4,
+        "drawerSocketId": "socket36304",
+        "roundTime": 60,
+        "scores": {
+            "socket36304": 4,
+            "socket77546": 7,
+            "socket39172": 17,
+            "socket53308": 6
+        }
+    },
+    {
+        "roomID": "t9vluyq9",
+        "players": [
+            {
+                "socketId": "socket26233",
+                "username": "Fiona2",
+                "score": 10
+            },
+            {
+                "socketId": "socket8139",
+                "username": "Bob60",
+                "score": 3
+            },
+            {
+                "socketId": "socket5596",
+                "username": "Ivan7",
+                "score": 17
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 3,
+        "drawerSocketId": "socket5596",
+        "roundTime": 60,
+        "scores": {
+            "socket26233": 10,
+            "socket8139": 3,
+            "socket5596": 17
+        }
+    },
+    {
+        "roomID": "s53tnfoe",
+        "players": [
+            {
+                "socketId": "socket2433",
+                "username": "Charlie17",
+                "score": 10
+            },
+            {
+                "socketId": "socket33859",
+                "username": "Julia63",
+                "score": 9
+            },
+            {
+                "socketId": "socket64052",
+                "username": "Bob27",
+                "score": 3
+            },
+            {
+                "socketId": "socket49617",
+                "username": "Eva75",
+                "score": 5
+            }
+        ],
+        "currentWord": "phone",
+        "round": 4,
+        "drawerSocketId": "socket49617",
+        "roundTime": 60,
+        "scores": {
+            "socket2433": 10,
+            "socket33859": 9,
+            "socket64052": 3,
+            "socket49617": 5
+        }
+    },
+    {
+        "roomID": "zk4rkevz",
+        "players": [
+            {
+                "socketId": "socket38567",
+                "username": "Fiona92",
+                "score": 7
+            },
+            {
+                "socketId": "socket27082",
+                "username": "David30",
+                "score": 2
+            },
+            {
+                "socketId": "socket32802",
+                "username": "George65",
+                "score": 4
+            }
+        ],
+        "currentWord": "computer",
+        "round": 2,
+        "drawerSocketId": "socket38567",
+        "roundTime": 60,
+        "scores": {
+            "socket38567": 7,
+            "socket27082": 2,
+            "socket32802": 4
+        }
+    },
+    {
+        "roomID": "z1hhwnel",
+        "players": [
+            {
+                "socketId": "socket82346",
+                "username": "George51",
+                "score": 19
+            },
+            {
+                "socketId": "socket33307",
+                "username": "Fiona9",
+                "score": 18
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 4,
+        "drawerSocketId": "socket33307",
+        "roundTime": 60,
+        "scores": {
+            "socket82346": 19,
+            "socket33307": 18
+        }
+    },
+    {
+        "roomID": "u07rrms8",
+        "players": [
+            {
+                "socketId": "socket1227",
+                "username": "Fiona34",
+                "score": 13
+            },
+            {
+                "socketId": "socket33024",
+                "username": "Fiona86",
+                "score": 6
+            },
+            {
+                "socketId": "socket55182",
+                "username": "Bob92",
+                "score": 2
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 4,
+        "drawerSocketId": "socket1227",
+        "roundTime": 60,
+        "scores": {
+            "socket1227": 13,
+            "socket33024": 6,
+            "socket55182": 2
+        }
+    },
+    {
+        "roomID": "aa6b5xgd",
+        "players": [
+            {
+                "socketId": "socket15626",
+                "username": "Julia50",
+                "score": 13
+            },
+            {
+                "socketId": "socket54678",
+                "username": "Eva48",
+                "score": 10
+            },
+            {
+                "socketId": "socket26890",
+                "username": "Bob6",
+                "score": 12
+            },
+            {
+                "socketId": "socket4072",
+                "username": "Julia90",
+                "score": 6
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 2,
+        "drawerSocketId": "socket54678",
+        "roundTime": 60,
+        "scores": {
+            "socket15626": 13,
+            "socket54678": 10,
+            "socket26890": 12,
+            "socket4072": 6
+        }
+    },
+    {
+        "roomID": "0cfqgyck",
+        "players": [
+            {
+                "socketId": "socket39722",
+                "username": "Hannah49",
+                "score": 8
+            },
+            {
+                "socketId": "socket2686",
+                "username": "Julia3",
+                "score": 7
+            },
+            {
+                "socketId": "socket69024",
+                "username": "Charlie50",
+                "score": 10
+            }
+        ],
+        "currentWord": "car",
+        "round": 3,
+        "drawerSocketId": "socket69024",
+        "roundTime": 60,
+        "scores": {
+            "socket39722": 8,
+            "socket2686": 7,
+            "socket69024": 10
+        }
+    },
+    {
+        "roomID": "4rm9nljj",
+        "players": [
+            {
+                "socketId": "socket75516",
+                "username": "Eva25",
+                "score": 0
+            },
+            {
+                "socketId": "socket61286",
+                "username": "Eva83",
+                "score": 16
+            }
+        ],
+        "currentWord": "computer",
+        "round": 2,
+        "drawerSocketId": "socket75516",
+        "roundTime": 60,
+        "scores": {
+            "socket75516": 0,
+            "socket61286": 16
+        }
+    },
+    {
+        "roomID": "2ia9r72w",
+        "players": [
+            {
+                "socketId": "socket94183",
+                "username": "Bob38",
+                "score": 12
+            },
+            {
+                "socketId": "socket2509",
+                "username": "George95",
+                "score": 11
+            },
+            {
+                "socketId": "socket75595",
+                "username": "Bob84",
+                "score": 4
+            }
+        ],
+        "currentWord": "computer",
+        "round": 5,
+        "drawerSocketId": "socket75595",
+        "roundTime": 60,
+        "scores": {
+            "socket94183": 12,
+            "socket2509": 11,
+            "socket75595": 4
+        }
+    },
+    {
+        "roomID": "5xapywoe",
+        "players": [
+            {
+                "socketId": "socket16565",
+                "username": "Ivan49",
+                "score": 18
+            },
+            {
+                "socketId": "socket98733",
+                "username": "Julia6",
+                "score": 18
+            },
+            {
+                "socketId": "socket36652",
+                "username": "Charlie69",
+                "score": 6
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 2,
+        "drawerSocketId": "socket98733",
+        "roundTime": 60,
+        "scores": {
+            "socket16565": 18,
+            "socket98733": 18,
+            "socket36652": 6
+        }
+    },
+    {
+        "roomID": "mkrzpnyy",
+        "players": [
+            {
+                "socketId": "socket41721",
+                "username": "David63",
+                "score": 4
+            },
+            {
+                "socketId": "socket57864",
+                "username": "Ivan13",
+                "score": 3
+            }
+        ],
+        "currentWord": "car",
+        "round": 2,
+        "drawerSocketId": "socket57864",
+        "roundTime": 60,
+        "scores": {
+            "socket41721": 4,
+            "socket57864": 3
+        }
+    },
+    {
+        "roomID": "jrwk9n4a",
+        "players": [
+            {
+                "socketId": "socket82145",
+                "username": "Charlie15",
+                "score": 1
+            },
+            {
+                "socketId": "socket98757",
+                "username": "David46",
+                "score": 3
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 3,
+        "drawerSocketId": "socket98757",
+        "roundTime": 60,
+        "scores": {
+            "socket82145": 1,
+            "socket98757": 3
+        }
+    },
+    {
+        "roomID": "hjsbh37a",
+        "players": [
+            {
+                "socketId": "socket89404",
+                "username": "David71",
+                "score": 18
+            },
+            {
+                "socketId": "socket33501",
+                "username": "Alice26",
+                "score": 14
+            },
+            {
+                "socketId": "socket79779",
+                "username": "David54",
+                "score": 6
+            },
+            {
+                "socketId": "socket70228",
+                "username": "Julia53",
+                "score": 12
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 2,
+        "drawerSocketId": "socket89404",
+        "roundTime": 60,
+        "scores": {
+            "socket89404": 18,
+            "socket33501": 14,
+            "socket79779": 6,
+            "socket70228": 12
+        }
+    },
+    {
+        "roomID": "qkb9l6eg",
+        "players": [
+            {
+                "socketId": "socket24950",
+                "username": "Eva5",
+                "score": 6
+            },
+            {
+                "socketId": "socket75992",
+                "username": "Eva90",
+                "score": 1
+            }
+        ],
+        "currentWord": "computer",
+        "round": 4,
+        "drawerSocketId": "socket24950",
+        "roundTime": 60,
+        "scores": {
+            "socket24950": 6,
+            "socket75992": 1
+        }
+    },
+    {
+        "roomID": "tc7av796",
+        "players": [
+            {
+                "socketId": "socket93662",
+                "username": "Julia71",
+                "score": 15
+            },
+            {
+                "socketId": "socket25643",
+                "username": "Charlie42",
+                "score": 15
+            },
+            {
+                "socketId": "socket99894",
+                "username": "Charlie50",
+                "score": 9
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 1,
+        "drawerSocketId": "socket93662",
+        "roundTime": 60,
+        "scores": {
+            "socket93662": 15,
+            "socket25643": 15,
+            "socket99894": 9
+        }
+    },
+    {
+        "roomID": "abtr1yxi",
+        "players": [
+            {
+                "socketId": "socket50128",
+                "username": "George38",
+                "score": 18
+            },
+            {
+                "socketId": "socket34779",
+                "username": "David32",
+                "score": 16
+            },
+            {
+                "socketId": "socket32114",
+                "username": "Fiona34",
+                "score": 15
+            },
+            {
+                "socketId": "socket32622",
+                "username": "Julia89",
+                "score": 9
+            }
+        ],
+        "currentWord": "phone",
+        "round": 2,
+        "drawerSocketId": "socket32114",
+        "roundTime": 60,
+        "scores": {
+            "socket50128": 18,
+            "socket34779": 16,
+            "socket32114": 15,
+            "socket32622": 9
+        }
+    },
+    {
+        "roomID": "sgoyb6g6",
+        "players": [
+            {
+                "socketId": "socket51306",
+                "username": "Eva51",
+                "score": 4
+            },
+            {
+                "socketId": "socket8104",
+                "username": "Hannah72",
+                "score": 15
+            },
+            {
+                "socketId": "socket75575",
+                "username": "David53",
+                "score": 18
+            },
+            {
+                "socketId": "socket38804",
+                "username": "Fiona62",
+                "score": 15
+            }
+        ],
+        "currentWord": "computer",
+        "round": 3,
+        "drawerSocketId": "socket8104",
+        "roundTime": 60,
+        "scores": {
+            "socket51306": 4,
+            "socket8104": 15,
+            "socket75575": 18,
+            "socket38804": 15
+        }
+    },
+    {
+        "roomID": "mfc5h991",
+        "players": [
+            {
+                "socketId": "socket50142",
+                "username": "Ivan67",
+                "score": 6
+            },
+            {
+                "socketId": "socket26519",
+                "username": "Charlie32",
+                "score": 14
+            },
+            {
+                "socketId": "socket37441",
+                "username": "Charlie19",
+                "score": 13
+            },
+            {
+                "socketId": "socket99004",
+                "username": "Ivan10",
+                "score": 13
+            }
+        ],
+        "currentWord": "tree",
+        "round": 1,
+        "drawerSocketId": "socket99004",
+        "roundTime": 60,
+        "scores": {
+            "socket50142": 6,
+            "socket26519": 14,
+            "socket37441": 13,
+            "socket99004": 13
+        }
+    },
+    {
+        "roomID": "lsxt9bf0",
+        "players": [
+            {
+                "socketId": "socket43491",
+                "username": "Eva5",
+                "score": 15
+            },
+            {
+                "socketId": "socket87181",
+                "username": "George56",
+                "score": 5
+            },
+            {
+                "socketId": "socket69102",
+                "username": "Hannah23",
+                "score": 10
+            },
+            {
+                "socketId": "socket28600",
+                "username": "Bob39",
+                "score": 0
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 2,
+        "drawerSocketId": "socket28600",
+        "roundTime": 60,
+        "scores": {
+            "socket43491": 15,
+            "socket87181": 5,
+            "socket69102": 10,
+            "socket28600": 0
+        }
+    },
+    {
+        "roomID": "xdwfl78i",
+        "players": [
+            {
+                "socketId": "socket47221",
+                "username": "David4",
+                "score": 11
+            },
+            {
+                "socketId": "socket94356",
+                "username": "Bob94",
+                "score": 15
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 4,
+        "drawerSocketId": "socket94356",
+        "roundTime": 60,
+        "scores": {
+            "socket47221": 11,
+            "socket94356": 15
+        }
+    },
+    {
+        "roomID": "6q2dc17n",
+        "players": [
+            {
+                "socketId": "socket60449",
+                "username": "Bob35",
+                "score": 12
+            },
+            {
+                "socketId": "socket92497",
+                "username": "Julia67",
+                "score": 13
+            }
+        ],
+        "currentWord": "computer",
+        "round": 1,
+        "drawerSocketId": "socket60449",
+        "roundTime": 60,
+        "scores": {
+            "socket60449": 12,
+            "socket92497": 13
+        }
+    },
+    {
+        "roomID": "syluvhcw",
+        "players": [
+            {
+                "socketId": "socket91186",
+                "username": "Ivan85",
+                "score": 7
+            },
+            {
+                "socketId": "socket58584",
+                "username": "Alice13",
+                "score": 0
+            },
+            {
+                "socketId": "socket45167",
+                "username": "Charlie49",
+                "score": 6
+            },
+            {
+                "socketId": "socket34116",
+                "username": "Bob50",
+                "score": 19
+            }
+        ],
+        "currentWord": "flower",
+        "round": 4,
+        "drawerSocketId": "socket58584",
+        "roundTime": 60,
+        "scores": {
+            "socket91186": 7,
+            "socket58584": 0,
+            "socket45167": 6,
+            "socket34116": 19
+        }
+    },
+    {
+        "roomID": "606v8quc",
+        "players": [
+            {
+                "socketId": "socket19908",
+                "username": "George79",
+                "score": 7
+            },
+            {
+                "socketId": "socket17297",
+                "username": "Hannah65",
+                "score": 9
+            },
+            {
+                "socketId": "socket53859",
+                "username": "Bob33",
+                "score": 15
+            }
+        ],
+        "currentWord": "phone",
+        "round": 1,
+        "drawerSocketId": "socket53859",
+        "roundTime": 60,
+        "scores": {
+            "socket19908": 7,
+            "socket17297": 9,
+            "socket53859": 15
+        }
+    },
+    {
+        "roomID": "riuims2w",
+        "players": [
+            {
+                "socketId": "socket72824",
+                "username": "Hannah68",
+                "score": 9
+            },
+            {
+                "socketId": "socket24749",
+                "username": "Julia96",
+                "score": 15
+            },
+            {
+                "socketId": "socket45946",
+                "username": "Ivan69",
+                "score": 16
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 4,
+        "drawerSocketId": "socket24749",
+        "roundTime": 60,
+        "scores": {
+            "socket72824": 9,
+            "socket24749": 15,
+            "socket45946": 16
+        }
+    },
+    {
+        "roomID": "1v6e1lap",
+        "players": [
+            {
+                "socketId": "socket45051",
+                "username": "Fiona65",
+                "score": 10
+            },
+            {
+                "socketId": "socket99770",
+                "username": "George21",
+                "score": 15
+            },
+            {
+                "socketId": "socket47417",
+                "username": "Charlie16",
+                "score": 1
+            }
+        ],
+        "currentWord": "tree",
+        "round": 1,
+        "drawerSocketId": "socket45051",
+        "roundTime": 60,
+        "scores": {
+            "socket45051": 10,
+            "socket99770": 15,
+            "socket47417": 1
+        }
+    },
+    {
+        "roomID": "yz0lh0zk",
+        "players": [
+            {
+                "socketId": "socket50694",
+                "username": "David20",
+                "score": 5
+            },
+            {
+                "socketId": "socket54332",
+                "username": "Alice67",
+                "score": 12
+            },
+            {
+                "socketId": "socket92954",
+                "username": "David28",
+                "score": 3
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 5,
+        "drawerSocketId": "socket54332",
+        "roundTime": 60,
+        "scores": {
+            "socket50694": 5,
+            "socket54332": 12,
+            "socket92954": 3
+        }
+    },
+    {
+        "roomID": "ucmwf2x4",
+        "players": [
+            {
+                "socketId": "socket55337",
+                "username": "Ivan63",
+                "score": 9
+            },
+            {
+                "socketId": "socket14187",
+                "username": "Ivan21",
+                "score": 2
+            }
+        ],
+        "currentWord": "computer",
+        "round": 5,
+        "drawerSocketId": "socket14187",
+        "roundTime": 60,
+        "scores": {
+            "socket55337": 9,
+            "socket14187": 2
+        }
+    },
+    {
+        "roomID": "cii9cu7l",
+        "players": [
+            {
+                "socketId": "socket94694",
+                "username": "Bob46",
+                "score": 18
+            },
+            {
+                "socketId": "socket24946",
+                "username": "Hannah39",
+                "score": 7
+            },
+            {
+                "socketId": "socket7814",
+                "username": "Hannah60",
+                "score": 1
+            }
+        ],
+        "currentWord": "car",
+        "round": 4,
+        "drawerSocketId": "socket24946",
+        "roundTime": 60,
+        "scores": {
+            "socket94694": 18,
+            "socket24946": 7,
+            "socket7814": 1
+        }
+    },
+    {
+        "roomID": "sgvv2ga9",
+        "players": [
+            {
+                "socketId": "socket98235",
+                "username": "Charlie17",
+                "score": 13
+            },
+            {
+                "socketId": "socket98012",
+                "username": "Bob59",
+                "score": 8
+            },
+            {
+                "socketId": "socket59099",
+                "username": "Charlie50",
+                "score": 16
+            },
+            {
+                "socketId": "socket90642",
+                "username": "Bob36",
+                "score": 3
+            }
+        ],
+        "currentWord": "house",
+        "round": 5,
+        "drawerSocketId": "socket98235",
+        "roundTime": 60,
+        "scores": {
+            "socket98235": 13,
+            "socket98012": 8,
+            "socket59099": 16,
+            "socket90642": 3
+        }
+    },
+    {
+        "roomID": "6kt2vbu6",
+        "players": [
+            {
+                "socketId": "socket70060",
+                "username": "Ivan54",
+                "score": 0
+            },
+            {
+                "socketId": "socket53910",
+                "username": "Julia81",
+                "score": 15
+            }
+        ],
+        "currentWord": "tree",
+        "round": 3,
+        "drawerSocketId": "socket70060",
+        "roundTime": 60,
+        "scores": {
+            "socket70060": 0,
+            "socket53910": 15
+        }
+    },
+    {
+        "roomID": "4i9z6rmq",
+        "players": [
+            {
+                "socketId": "socket67558",
+                "username": "David69",
+                "score": 12
+            },
+            {
+                "socketId": "socket98200",
+                "username": "Charlie62",
+                "score": 8
+            }
+        ],
+        "currentWord": "flower",
+        "round": 2,
+        "drawerSocketId": "socket98200",
+        "roundTime": 60,
+        "scores": {
+            "socket67558": 12,
+            "socket98200": 8
+        }
+    },
+    {
+        "roomID": "jm5t6mcs",
+        "players": [
+            {
+                "socketId": "socket76692",
+                "username": "Fiona29",
+                "score": 3
+            },
+            {
+                "socketId": "socket70233",
+                "username": "Bob3",
+                "score": 5
+            }
+        ],
+        "currentWord": "house",
+        "round": 5,
+        "drawerSocketId": "socket76692",
+        "roundTime": 60,
+        "scores": {
+            "socket76692": 3,
+            "socket70233": 5
+        }
+    },
+    {
+        "roomID": "o9s8cvtk",
+        "players": [
+            {
+                "socketId": "socket1036",
+                "username": "Alice94",
+                "score": 18
+            },
+            {
+                "socketId": "socket85562",
+                "username": "Bob58",
+                "score": 12
+            },
+            {
+                "socketId": "socket67453",
+                "username": "George63",
+                "score": 16
+            },
+            {
+                "socketId": "socket18865",
+                "username": "Bob89",
+                "score": 2
+            }
+        ],
+        "currentWord": "flower",
+        "round": 3,
+        "drawerSocketId": "socket1036",
+        "roundTime": 60,
+        "scores": {
+            "socket1036": 18,
+            "socket85562": 12,
+            "socket67453": 16,
+            "socket18865": 2
+        }
+    },
+    {
+        "roomID": "ppv0fnd8",
+        "players": [
+            {
+                "socketId": "socket63924",
+                "username": "Charlie95",
+                "score": 8
+            },
+            {
+                "socketId": "socket84",
+                "username": "Bob97",
+                "score": 17
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 3,
+        "drawerSocketId": "socket63924",
+        "roundTime": 60,
+        "scores": {
+            "socket63924": 8,
+            "socket84": 17
+        }
+    },
+    {
+        "roomID": "1kr1nv5l",
+        "players": [
+            {
+                "socketId": "socket86839",
+                "username": "George29",
+                "score": 8
+            },
+            {
+                "socketId": "socket1518",
+                "username": "George5",
+                "score": 6
+            }
+        ],
+        "currentWord": "house",
+        "round": 4,
+        "drawerSocketId": "socket1518",
+        "roundTime": 60,
+        "scores": {
+            "socket86839": 8,
+            "socket1518": 6
+        }
+    },
+    {
+        "roomID": "65k6qnys",
+        "players": [
+            {
+                "socketId": "socket38882",
+                "username": "George13",
+                "score": 12
+            },
+            {
+                "socketId": "socket94710",
+                "username": "Charlie9",
+                "score": 19
+            },
+            {
+                "socketId": "socket40807",
+                "username": "Fiona39",
+                "score": 11
+            },
+            {
+                "socketId": "socket27678",
+                "username": "Ivan90",
+                "score": 14
+            }
+        ],
+        "currentWord": "house",
+        "round": 2,
+        "drawerSocketId": "socket27678",
+        "roundTime": 60,
+        "scores": {
+            "socket38882": 12,
+            "socket94710": 19,
+            "socket40807": 11,
+            "socket27678": 14
+        }
+    },
+    {
+        "roomID": "68kvv7fc",
+        "players": [
+            {
+                "socketId": "socket94418",
+                "username": "George43",
+                "score": 4
+            },
+            {
+                "socketId": "socket10990",
+                "username": "Ivan58",
+                "score": 2
+            },
+            {
+                "socketId": "socket57676",
+                "username": "Fiona20",
+                "score": 11
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 5,
+        "drawerSocketId": "socket94418",
+        "roundTime": 60,
+        "scores": {
+            "socket94418": 4,
+            "socket10990": 2,
+            "socket57676": 11
+        }
+    },
+    {
+        "roomID": "my2ewkug",
+        "players": [
+            {
+                "socketId": "socket60978",
+                "username": "Bob20",
+                "score": 11
+            },
+            {
+                "socketId": "socket89229",
+                "username": "Hannah24",
+                "score": 1
+            },
+            {
+                "socketId": "socket17831",
+                "username": "Fiona62",
+                "score": 18
+            },
+            {
+                "socketId": "socket77590",
+                "username": "Julia84",
+                "score": 2
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 4,
+        "drawerSocketId": "socket17831",
+        "roundTime": 60,
+        "scores": {
+            "socket60978": 11,
+            "socket89229": 1,
+            "socket17831": 18,
+            "socket77590": 2
+        }
+    },
+    {
+        "roomID": "3sas4mzo",
+        "players": [
+            {
+                "socketId": "socket70160",
+                "username": "David78",
+                "score": 11
+            },
+            {
+                "socketId": "socket16416",
+                "username": "Eva17",
+                "score": 6
+            },
+            {
+                "socketId": "socket9091",
+                "username": "David50",
+                "score": 8
+            },
+            {
+                "socketId": "socket39649",
+                "username": "Hannah39",
+                "score": 10
+            }
+        ],
+        "currentWord": "car",
+        "round": 5,
+        "drawerSocketId": "socket39649",
+        "roundTime": 60,
+        "scores": {
+            "socket70160": 11,
+            "socket16416": 6,
+            "socket9091": 8,
+            "socket39649": 10
+        }
+    },
+    {
+        "roomID": "i31u22ep",
+        "players": [
+            {
+                "socketId": "socket40258",
+                "username": "Alice54",
+                "score": 4
+            },
+            {
+                "socketId": "socket55166",
+                "username": "Julia25",
+                "score": 6
+            }
+        ],
+        "currentWord": "computer",
+        "round": 4,
+        "drawerSocketId": "socket40258",
+        "roundTime": 60,
+        "scores": {
+            "socket40258": 4,
+            "socket55166": 6
+        }
+    },
+    {
+        "roomID": "06buj3ov",
+        "players": [
+            {
+                "socketId": "socket94670",
+                "username": "David85",
+                "score": 5
+            },
+            {
+                "socketId": "socket10086",
+                "username": "Julia70",
+                "score": 0
+            },
+            {
+                "socketId": "socket82364",
+                "username": "Fiona33",
+                "score": 19
+            },
+            {
+                "socketId": "socket80740",
+                "username": "Eva6",
+                "score": 17
+            }
+        ],
+        "currentWord": "computer",
+        "round": 5,
+        "drawerSocketId": "socket82364",
+        "roundTime": 60,
+        "scores": {
+            "socket94670": 5,
+            "socket10086": 0,
+            "socket82364": 19,
+            "socket80740": 17
+        }
+    },
+    {
+        "roomID": "2o5646ww",
+        "players": [
+            {
+                "socketId": "socket53320",
+                "username": "Ivan1",
+                "score": 12
+            },
+            {
+                "socketId": "socket40783",
+                "username": "Julia78",
+                "score": 15
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 1,
+        "drawerSocketId": "socket53320",
+        "roundTime": 60,
+        "scores": {
+            "socket53320": 12,
+            "socket40783": 15
+        }
+    },
+    {
+        "roomID": "vihpdqje",
+        "players": [
+            {
+                "socketId": "socket97987",
+                "username": "Charlie31",
+                "score": 18
+            },
+            {
+                "socketId": "socket27677",
+                "username": "Charlie57",
+                "score": 6
+            },
+            {
+                "socketId": "socket68224",
+                "username": "David64",
+                "score": 14
+            }
+        ],
+        "currentWord": "flower",
+        "round": 2,
+        "drawerSocketId": "socket97987",
+        "roundTime": 60,
+        "scores": {
+            "socket97987": 18,
+            "socket27677": 6,
+            "socket68224": 14
+        }
+    },
+    {
+        "roomID": "hzfx6906",
+        "players": [
+            {
+                "socketId": "socket61595",
+                "username": "Fiona99",
+                "score": 17
+            },
+            {
+                "socketId": "socket38647",
+                "username": "Charlie94",
+                "score": 1
+            },
+            {
+                "socketId": "socket37096",
+                "username": "Hannah41",
+                "score": 0
+            },
+            {
+                "socketId": "socket89578",
+                "username": "Fiona14",
+                "score": 14
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 1,
+        "drawerSocketId": "socket61595",
+        "roundTime": 60,
+        "scores": {
+            "socket61595": 17,
+            "socket38647": 1,
+            "socket37096": 0,
+            "socket89578": 14
+        }
+    },
+    {
+        "roomID": "qhx1p7qx",
+        "players": [
+            {
+                "socketId": "socket30109",
+                "username": "George47",
+                "score": 10
+            },
+            {
+                "socketId": "socket10892",
+                "username": "Fiona89",
+                "score": 1
+            },
+            {
+                "socketId": "socket82847",
+                "username": "Hannah90",
+                "score": 15
+            }
+        ],
+        "currentWord": "house",
+        "round": 4,
+        "drawerSocketId": "socket82847",
+        "roundTime": 60,
+        "scores": {
+            "socket30109": 10,
+            "socket10892": 1,
+            "socket82847": 15
+        }
+    },
+    {
+        "roomID": "rrzqs9ox",
+        "players": [
+            {
+                "socketId": "socket11623",
+                "username": "Fiona40",
+                "score": 1
+            },
+            {
+                "socketId": "socket11632",
+                "username": "Charlie44",
+                "score": 10
+            },
+            {
+                "socketId": "socket48596",
+                "username": "Hannah41",
+                "score": 14
+            },
+            {
+                "socketId": "socket54260",
+                "username": "Eva56",
+                "score": 2
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 5,
+        "drawerSocketId": "socket48596",
+        "roundTime": 60,
+        "scores": {
+            "socket11623": 1,
+            "socket11632": 10,
+            "socket48596": 14,
+            "socket54260": 2
+        }
+    },
+    {
+        "roomID": "5pq2kt07",
+        "players": [
+            {
+                "socketId": "socket47032",
+                "username": "Eva42",
+                "score": 13
+            },
+            {
+                "socketId": "socket27914",
+                "username": "Hannah75",
+                "score": 14
+            },
+            {
+                "socketId": "socket1104",
+                "username": "David80",
+                "score": 1
+            },
+            {
+                "socketId": "socket99118",
+                "username": "Hannah24",
+                "score": 2
+            }
+        ],
+        "currentWord": "phone",
+        "round": 2,
+        "drawerSocketId": "socket27914",
+        "roundTime": 60,
+        "scores": {
+            "socket47032": 13,
+            "socket27914": 14,
+            "socket1104": 1,
+            "socket99118": 2
+        }
+    },
+    {
+        "roomID": "d020i2mh",
+        "players": [
+            {
+                "socketId": "socket47378",
+                "username": "David82",
+                "score": 11
+            },
+            {
+                "socketId": "socket64040",
+                "username": "Ivan39",
+                "score": 15
+            },
+            {
+                "socketId": "socket80176",
+                "username": "David26",
+                "score": 19
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 1,
+        "drawerSocketId": "socket47378",
+        "roundTime": 60,
+        "scores": {
+            "socket47378": 11,
+            "socket64040": 15,
+            "socket80176": 19
+        }
+    },
+    {
+        "roomID": "2mmxjcfd",
+        "players": [
+            {
+                "socketId": "socket27595",
+                "username": "George17",
+                "score": 16
+            },
+            {
+                "socketId": "socket97532",
+                "username": "Charlie10",
+                "score": 14
+            },
+            {
+                "socketId": "socket49439",
+                "username": "Eva44",
+                "score": 9
+            },
+            {
+                "socketId": "socket6468",
+                "username": "Fiona52",
+                "score": 3
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 1,
+        "drawerSocketId": "socket27595",
+        "roundTime": 60,
+        "scores": {
+            "socket27595": 16,
+            "socket97532": 14,
+            "socket49439": 9,
+            "socket6468": 3
+        }
+    },
+    {
+        "roomID": "3krk2pmz",
+        "players": [
+            {
+                "socketId": "socket59085",
+                "username": "Charlie27",
+                "score": 11
+            },
+            {
+                "socketId": "socket18031",
+                "username": "Julia53",
+                "score": 9
+            }
+        ],
+        "currentWord": "house",
+        "round": 4,
+        "drawerSocketId": "socket59085",
+        "roundTime": 60,
+        "scores": {
+            "socket59085": 11,
+            "socket18031": 9
+        }
+    },
+    {
+        "roomID": "ljin3kn8",
+        "players": [
+            {
+                "socketId": "socket84986",
+                "username": "Julia40",
+                "score": 9
+            },
+            {
+                "socketId": "socket1283",
+                "username": "George74",
+                "score": 15
+            },
+            {
+                "socketId": "socket78992",
+                "username": "Hannah10",
+                "score": 0
+            },
+            {
+                "socketId": "socket48634",
+                "username": "David44",
+                "score": 6
+            }
+        ],
+        "currentWord": "phone",
+        "round": 5,
+        "drawerSocketId": "socket1283",
+        "roundTime": 60,
+        "scores": {
+            "socket84986": 9,
+            "socket1283": 15,
+            "socket78992": 0,
+            "socket48634": 6
+        }
+    },
+    {
+        "roomID": "cx1zpd02",
+        "players": [
+            {
+                "socketId": "socket45009",
+                "username": "Hannah73",
+                "score": 15
+            },
+            {
+                "socketId": "socket75490",
+                "username": "David95",
+                "score": 0
+            }
+        ],
+        "currentWord": "tree",
+        "round": 3,
+        "drawerSocketId": "socket75490",
+        "roundTime": 60,
+        "scores": {
+            "socket45009": 15,
+            "socket75490": 0
+        }
+    },
+    {
+        "roomID": "nsxtivx5",
+        "players": [
+            {
+                "socketId": "socket24311",
+                "username": "Julia49",
+                "score": 10
+            },
+            {
+                "socketId": "socket56590",
+                "username": "Eva46",
+                "score": 13
+            },
+            {
+                "socketId": "socket86473",
+                "username": "Fiona11",
+                "score": 10
+            },
+            {
+                "socketId": "socket5164",
+                "username": "Charlie65",
+                "score": 3
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 3,
+        "drawerSocketId": "socket24311",
+        "roundTime": 60,
+        "scores": {
+            "socket24311": 10,
+            "socket56590": 13,
+            "socket86473": 10,
+            "socket5164": 3
+        }
+    },
+    {
+        "roomID": "7s7jqvoo",
+        "players": [
+            {
+                "socketId": "socket61014",
+                "username": "Julia58",
+                "score": 6
+            },
+            {
+                "socketId": "socket89330",
+                "username": "Fiona29",
+                "score": 5
+            }
+        ],
+        "currentWord": "tree",
+        "round": 4,
+        "drawerSocketId": "socket89330",
+        "roundTime": 60,
+        "scores": {
+            "socket61014": 6,
+            "socket89330": 5
+        }
+    },
+    {
+        "roomID": "dyycw5do",
+        "players": [
+            {
+                "socketId": "socket26447",
+                "username": "Bob75",
+                "score": 1
+            },
+            {
+                "socketId": "socket39618",
+                "username": "Eva7",
+                "score": 4
+            },
+            {
+                "socketId": "socket39036",
+                "username": "Eva73",
+                "score": 19
+            },
+            {
+                "socketId": "socket69834",
+                "username": "Eva22",
+                "score": 1
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 4,
+        "drawerSocketId": "socket69834",
+        "roundTime": 60,
+        "scores": {
+            "socket26447": 1,
+            "socket39618": 4,
+            "socket39036": 19,
+            "socket69834": 1
+        }
+    },
+    {
+        "roomID": "lx8u69j4",
+        "players": [
+            {
+                "socketId": "socket26238",
+                "username": "Bob76",
+                "score": 16
+            },
+            {
+                "socketId": "socket33624",
+                "username": "George0",
+                "score": 19
+            },
+            {
+                "socketId": "socket81048",
+                "username": "George1",
+                "score": 19
+            },
+            {
+                "socketId": "socket23365",
+                "username": "Eva22",
+                "score": 12
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 4,
+        "drawerSocketId": "socket81048",
+        "roundTime": 60,
+        "scores": {
+            "socket26238": 16,
+            "socket33624": 19,
+            "socket81048": 19,
+            "socket23365": 12
+        }
+    },
+    {
+        "roomID": "y4itogb7",
+        "players": [
+            {
+                "socketId": "socket60053",
+                "username": "Ivan60",
+                "score": 4
+            },
+            {
+                "socketId": "socket88352",
+                "username": "George3",
+                "score": 6
+            },
+            {
+                "socketId": "socket92922",
+                "username": "Eva17",
+                "score": 15
+            }
+        ],
+        "currentWord": "computer",
+        "round": 1,
+        "drawerSocketId": "socket92922",
+        "roundTime": 60,
+        "scores": {
+            "socket60053": 4,
+            "socket88352": 6,
+            "socket92922": 15
+        }
+    },
+    {
+        "roomID": "si1wvq0s",
+        "players": [
+            {
+                "socketId": "socket45885",
+                "username": "Bob71",
+                "score": 1
+            },
+            {
+                "socketId": "socket35409",
+                "username": "Alice99",
+                "score": 13
+            }
+        ],
+        "currentWord": "puzzle",
+        "round": 3,
+        "drawerSocketId": "socket45885",
+        "roundTime": 60,
+        "scores": {
+            "socket45885": 1,
+            "socket35409": 13
+        }
+    },
+    {
+        "roomID": "y0vgq709",
+        "players": [
+            {
+                "socketId": "socket28527",
+                "username": "Fiona79",
+                "score": 17
+            },
+            {
+                "socketId": "socket89913",
+                "username": "Eva65",
+                "score": 16
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 2,
+        "drawerSocketId": "socket28527",
+        "roundTime": 60,
+        "scores": {
+            "socket28527": 17,
+            "socket89913": 16
+        }
+    },
+    {
+        "roomID": "rmxac4e2",
+        "players": [
+            {
+                "socketId": "socket33699",
+                "username": "Fiona47",
+                "score": 10
+            },
+            {
+                "socketId": "socket28312",
+                "username": "Fiona36",
+                "score": 18
+            }
+        ],
+        "currentWord": "computer",
+        "round": 5,
+        "drawerSocketId": "socket33699",
+        "roundTime": 60,
+        "scores": {
+            "socket33699": 10,
+            "socket28312": 18
+        }
+    },
+    {
+        "roomID": "u8hohcgh",
+        "players": [
+            {
+                "socketId": "socket29111",
+                "username": "George18",
+                "score": 13
+            },
+            {
+                "socketId": "socket82138",
+                "username": "George61",
+                "score": 14
+            }
+        ],
+        "currentWord": "computer",
+        "round": 4,
+        "drawerSocketId": "socket29111",
+        "roundTime": 60,
+        "scores": {
+            "socket29111": 13,
+            "socket82138": 14
+        }
+    },
+    {
+        "roomID": "dy8krdxi",
+        "players": [
+            {
+                "socketId": "socket48831",
+                "username": "Eva17",
+                "score": 18
+            },
+            {
+                "socketId": "socket8246",
+                "username": "David84",
+                "score": 9
+            },
+            {
+                "socketId": "socket54604",
+                "username": "Julia64",
+                "score": 19
+            },
+            {
+                "socketId": "socket81836",
+                "username": "Julia61",
+                "score": 7
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 2,
+        "drawerSocketId": "socket48831",
+        "roundTime": 60,
+        "scores": {
+            "socket48831": 18,
+            "socket8246": 9,
+            "socket54604": 19,
+            "socket81836": 7
+        }
+    },
+    {
+        "roomID": "a1ottgli",
+        "players": [
+            {
+                "socketId": "socket35881",
+                "username": "Fiona53",
+                "score": 7
+            },
+            {
+                "socketId": "socket85414",
+                "username": "Julia91",
+                "score": 0
+            }
+        ],
+        "currentWord": "tiger",
+        "round": 5,
+        "drawerSocketId": "socket85414",
+        "roundTime": 60,
+        "scores": {
+            "socket35881": 7,
+            "socket85414": 0
+        }
+    },
+    {
+        "roomID": "770i09oy",
+        "players": [
+            {
+                "socketId": "socket97497",
+                "username": "Bob64",
+                "score": 7
+            },
+            {
+                "socketId": "socket44222",
+                "username": "Eva12",
+                "score": 15
+            },
+            {
+                "socketId": "socket88374",
+                "username": "Bob61",
+                "score": 17
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 5,
+        "drawerSocketId": "socket97497",
+        "roundTime": 60,
+        "scores": {
+            "socket97497": 7,
+            "socket44222": 15,
+            "socket88374": 17
+        }
+    },
+    {
+        "roomID": "38a0wx8g",
+        "players": [
+            {
+                "socketId": "socket22857",
+                "username": "Eva51",
+                "score": 12
+            },
+            {
+                "socketId": "socket61833",
+                "username": "Fiona12",
+                "score": 15
+            },
+            {
+                "socketId": "socket64196",
+                "username": "Eva34",
+                "score": 12
+            },
+            {
+                "socketId": "socket81853",
+                "username": "George63",
+                "score": 10
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 5,
+        "drawerSocketId": "socket22857",
+        "roundTime": 60,
+        "scores": {
+            "socket22857": 12,
+            "socket61833": 15,
+            "socket64196": 12,
+            "socket81853": 10
+        }
+    },
+    {
+        "roomID": "dhwo194o",
+        "players": [
+            {
+                "socketId": "socket35069",
+                "username": "Fiona70",
+                "score": 11
+            },
+            {
+                "socketId": "socket90681",
+                "username": "Hannah44",
+                "score": 9
+            },
+            {
+                "socketId": "socket60386",
+                "username": "Fiona57",
+                "score": 10
+            }
+        ],
+        "currentWord": "phone",
+        "round": 1,
+        "drawerSocketId": "socket90681",
+        "roundTime": 60,
+        "scores": {
+            "socket35069": 11,
+            "socket90681": 9,
+            "socket60386": 10
+        }
+    },
+    {
+        "roomID": "76y6ffdf",
+        "players": [
+            {
+                "socketId": "socket47487",
+                "username": "Eva43",
+                "score": 11
+            },
+            {
+                "socketId": "socket84478",
+                "username": "Eva76",
+                "score": 16
+            }
+        ],
+        "currentWord": "flower",
+        "round": 3,
+        "drawerSocketId": "socket47487",
+        "roundTime": 60,
+        "scores": {
+            "socket47487": 11,
+            "socket84478": 16
+        }
+    },
+    {
+        "roomID": "8m4f4pjt",
+        "players": [
+            {
+                "socketId": "socket85571",
+                "username": "Eva42",
+                "score": 7
+            },
+            {
+                "socketId": "socket44775",
+                "username": "Julia17",
+                "score": 10
+            },
+            {
+                "socketId": "socket90620",
+                "username": "David55",
+                "score": 10
+            }
+        ],
+        "currentWord": "computer",
+        "round": 3,
+        "drawerSocketId": "socket44775",
+        "roundTime": 60,
+        "scores": {
+            "socket85571": 7,
+            "socket44775": 10,
+            "socket90620": 10
+        }
+    },
+    {
+        "roomID": "eqmt3nms",
+        "players": [
+            {
+                "socketId": "socket27493",
+                "username": "Alice2",
+                "score": 1
+            },
+            {
+                "socketId": "socket99498",
+                "username": "Eva10",
+                "score": 6
+            }
+        ],
+        "currentWord": "tree",
+        "round": 4,
+        "drawerSocketId": "socket27493",
+        "roundTime": 60,
+        "scores": {
+            "socket27493": 1,
+            "socket99498": 6
+        }
+    },
+    {
+        "roomID": "5uw1s5wh",
+        "players": [
+            {
+                "socketId": "socket10903",
+                "username": "Charlie80",
+                "score": 9
+            },
+            {
+                "socketId": "socket68979",
+                "username": "Charlie22",
+                "score": 3
+            },
+            {
+                "socketId": "socket4508",
+                "username": "Fiona92",
+                "score": 6
+            }
+        ],
+        "currentWord": "phone",
+        "round": 5,
+        "drawerSocketId": "socket4508",
+        "roundTime": 60,
+        "scores": {
+            "socket10903": 9,
+            "socket68979": 3,
+            "socket4508": 6
+        }
+    },
+    {
+        "roomID": "cx46micb",
+        "players": [
+            {
+                "socketId": "socket49656",
+                "username": "Julia68",
+                "score": 0
+            },
+            {
+                "socketId": "socket33485",
+                "username": "Alice5",
+                "score": 4
+            },
+            {
+                "socketId": "socket35614",
+                "username": "George71",
+                "score": 1
+            },
+            {
+                "socketId": "socket925",
+                "username": "Charlie78",
+                "score": 17
+            }
+        ],
+        "currentWord": "flower",
+        "round": 4,
+        "drawerSocketId": "socket33485",
+        "roundTime": 60,
+        "scores": {
+            "socket49656": 0,
+            "socket33485": 4,
+            "socket35614": 1,
+            "socket925": 17
+        }
+    },
+    {
+        "roomID": "rhesbhtt",
+        "players": [
+            {
+                "socketId": "socket88726",
+                "username": "Fiona74",
+                "score": 16
+            },
+            {
+                "socketId": "socket18800",
+                "username": "Ivan92",
+                "score": 2
+            }
+        ],
+        "currentWord": "computer",
+        "round": 2,
+        "drawerSocketId": "socket18800",
+        "roundTime": 60,
+        "scores": {
+            "socket88726": 16,
+            "socket18800": 2
+        }
+    },
+    {
+        "roomID": "682386ek",
+        "players": [
+            {
+                "socketId": "socket40227",
+                "username": "Alice30",
+                "score": 19
+            },
+            {
+                "socketId": "socket64931",
+                "username": "David95",
+                "score": 18
+            },
+            {
+                "socketId": "socket33222",
+                "username": "Hannah65",
+                "score": 7
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 4,
+        "drawerSocketId": "socket33222",
+        "roundTime": 60,
+        "scores": {
+            "socket40227": 19,
+            "socket64931": 18,
+            "socket33222": 7
+        }
+    },
+    {
+        "roomID": "sytxxi6h",
+        "players": [
+            {
+                "socketId": "socket28700",
+                "username": "Ivan41",
+                "score": 17
+            },
+            {
+                "socketId": "socket76965",
+                "username": "Charlie37",
+                "score": 9
+            },
+            {
+                "socketId": "socket75331",
+                "username": "Charlie76",
+                "score": 17
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 4,
+        "drawerSocketId": "socket76965",
+        "roundTime": 60,
+        "scores": {
+            "socket28700": 17,
+            "socket76965": 9,
+            "socket75331": 17
+        }
+    },
+    {
+        "roomID": "asv31k1m",
+        "players": [
+            {
+                "socketId": "socket14440",
+                "username": "Bob42",
+                "score": 18
+            },
+            {
+                "socketId": "socket84184",
+                "username": "Eva48",
+                "score": 10
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 2,
+        "drawerSocketId": "socket84184",
+        "roundTime": 60,
+        "scores": {
+            "socket14440": 18,
+            "socket84184": 10
+        }
+    },
+    {
+        "roomID": "iqqon8rp",
+        "players": [
+            {
+                "socketId": "socket9486",
+                "username": "Bob71",
+                "score": 18
+            },
+            {
+                "socketId": "socket96206",
+                "username": "Hannah33",
+                "score": 10
+            },
+            {
+                "socketId": "socket15883",
+                "username": "Bob74",
+                "score": 19
+            },
+            {
+                "socketId": "socket95985",
+                "username": "Ivan8",
+                "score": 3
+            }
+        ],
+        "currentWord": "computer",
+        "round": 1,
+        "drawerSocketId": "socket96206",
+        "roundTime": 60,
+        "scores": {
+            "socket9486": 18,
+            "socket96206": 10,
+            "socket15883": 19,
+            "socket95985": 3
+        }
+    },
+    {
+        "roomID": "lcgfrnjq",
+        "players": [
+            {
+                "socketId": "socket1378",
+                "username": "Hannah40",
+                "score": 6
+            },
+            {
+                "socketId": "socket56692",
+                "username": "Ivan61",
+                "score": 10
+            },
+            {
+                "socketId": "socket17107",
+                "username": "Charlie22",
+                "score": 18
+            },
+            {
+                "socketId": "socket51515",
+                "username": "David73",
+                "score": 12
+            }
+        ],
+        "currentWord": "elephant",
+        "round": 2,
+        "drawerSocketId": "socket56692",
+        "roundTime": 60,
+        "scores": {
+            "socket1378": 6,
+            "socket56692": 10,
+            "socket17107": 18,
+            "socket51515": 12
+        }
+    },
+    {
+        "roomID": "k0tucdt7",
+        "players": [
+            {
+                "socketId": "socket87625",
+                "username": "Eva27",
+                "score": 11
+            },
+            {
+                "socketId": "socket9073",
+                "username": "Fiona36",
+                "score": 12
+            },
+            {
+                "socketId": "socket6161",
+                "username": "Alice63",
+                "score": 14
+            },
+            {
+                "socketId": "socket66097",
+                "username": "Eva28",
+                "score": 6
+            }
+        ],
+        "currentWord": "guitar",
+        "round": 3,
+        "drawerSocketId": "socket6161",
+        "roundTime": 60,
+        "scores": {
+            "socket87625": 11,
+            "socket9073": 12,
+            "socket6161": 14,
+            "socket66097": 6
+        }
+    }
+]
