@@ -5,10 +5,10 @@ Essential REST APIs
 3.Get user profile and stats
 
 Rooms
-1.Create room (POST)
-2.List available rooms (GET)
-3.Join/leave room (POST/DELETE)
-4.Get room details (GET)
+1.Create room (POST)----------------------->done
+2.List available rooms (GET)--------------->done
+3.Join/leave room (POST/DELETE)------------>done
+4.Get room details (GET)------------------->done
 
 Game Lifecycle
 1.Start game (POST)

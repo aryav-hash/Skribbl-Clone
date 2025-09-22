@@ -1600,5 +1600,47 @@
       "socket57619": 6,
       "socket14350": 19
     }
+  },
+  {
+    "roomID": "3b312wvc",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {}
+  },
+  {
+    "roomID": "9hsmpx98",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {}
+  },
+  {
+    "roomID": "ivryc5p3",
+    "players": [
+      "Raveesh",
+      "Nigru"
+    ],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {
+      "Raveesh": 0,
+      "Nigru": 0
+    }
+  },
+  {
+    "roomID": "besowb4k",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {}
   }
 ]
