@@ -160,7 +160,8 @@ router.route('/join').post((req, res) => {
 //API to leave a room
 
 router.route('/leave').post((req,res)=>{
-  const { roomID, playerName } = req.body;
+  const roomID =req.query.roomID;
+  const playerName =req.query.playerName;
   if (!roomID || !playerName) {
     res.status(400).json({ error: 'roomID and playerName are required' });
     return;

@@ -1622,16 +1622,14 @@
   {
     "roomID": "ivryc5p3",
     "players": [
-      "Raveesh",
-      "Nigru"
+      "Raveesh"
     ],
     "currentWord": "",
     "round": 0,
     "drawerSocketId": "",
     "roundTime": 60,
     "scores": {
-      "Raveesh": 0,
-      "Nigru": 0
+      "Raveesh": 0
     }
   },
   {
