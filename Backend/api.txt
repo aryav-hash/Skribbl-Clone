@@ -11,20 +11,20 @@ Rooms
 4.Get room details (GET)------------------->done
 
 Game Lifecycle
-1.Start game (POST)
-2.End game (POST)
-3.Fetch game state (GET)
+1.Start game (POST)------------------------>done
+2.End game (POST)-------------------------->done
+3.Fetch game state (GET)------------------->done
 
 Words
-1.Get word list/word for round (GET)
+1.Get word list/word for round (GET)------->done
 
 Scores
-1.Get current scores/leaderboard (GET)
+1.Get current scores/leaderboard (GET)----->done
 
 ============================================================
 Real-time Socket Events
 
-1.Room events
+1.Room events-------------------->done
 'joinRoom': User joins a room
 'leaveRoom': User leaves
 

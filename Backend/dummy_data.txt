@@ -26,7 +26,8 @@
       "socket5056": 13,
       "socket42757": 19,
       "socket14945": 7
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "z3fommhe",
@@ -49,7 +50,8 @@
     "scores": {
       "socket38936": 16,
       "socket60201": 10
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "57ivb9gr",
@@ -84,7 +86,8 @@
       "socket29185": 5,
       "socket35459": 15,
       "socket79026": 16
-    }
+    },
+    "state": "started"
   },
   {
     "roomID": "q8gprnco",
@@ -119,7 +122,8 @@
       "socket83368": 3,
       "socket77683": 3,
       "socket67519": 13
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "d3a6gkfz",
@@ -154,7 +158,8 @@
       "socket92861": 12,
       "socket84451": 10,
       "socket5239": 1
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "w41b63oz",
@@ -189,7 +194,8 @@
       "socket49545": 10,
       "socket10325": 19,
       "socket7652": 6
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "ddeed9oz",
@@ -224,7 +230,8 @@
       "socket51734": 18,
       "socket92309": 10,
       "socket57681": 6
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "nf24wdo0",
@@ -259,7 +266,8 @@
       "socket73779": 7,
       "socket50406": 18,
       "socket16106": 3
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "szd3z9ke",
@@ -282,7 +290,8 @@
     "scores": {
       "socket61106": 19,
       "socket68586": 8
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "vbtyk1o8",
@@ -311,7 +320,8 @@
       "socket44914": 5,
       "socket61017": 13,
       "socket27152": 19
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "vl2eqvvt",
@@ -334,7 +344,8 @@
     "scores": {
       "socket11130": 5,
       "socket68560": 8
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "gthpu2iv",
@@ -369,7 +380,8 @@
       "socket81519": 9,
       "socket28297": 14,
       "socket72069": 12
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "uziglmus",
@@ -404,7 +416,8 @@
       "socket52383": 13,
       "socket8341": 9,
       "socket20328": 4
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "5isremhb",
@@ -439,7 +452,8 @@
       "socket12413": 11,
       "socket67962": 13,
       "socket41027": 11
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "hs9vv5fc",
@@ -468,7 +482,8 @@
       "socket5331": 6,
       "socket48253": 17,
       "socket82200": 13
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "85azfm1c",
@@ -497,7 +512,8 @@
       "socket60126": 12,
       "socket33303": 13,
       "socket64360": 12
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "r12t4lq1",
@@ -532,7 +548,8 @@
       "socket60548": 0,
       "socket86672": 6,
       "socket10487": 8
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "48vd12e9",
@@ -567,7 +584,8 @@
       "socket73710": 13,
       "socket43725": 5,
       "socket47763": 5
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "s0o3d4tp",
@@ -596,7 +614,8 @@
       "socket76317": 19,
       "socket3900": 4,
       "socket88813": 3
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "p6nppdxp",
@@ -619,7 +638,8 @@
     "scores": {
       "socket94905": 16,
       "socket97961": 12
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "zdliqgio",
@@ -654,7 +674,8 @@
       "socket26524": 15,
       "socket20379": 15,
       "socket72778": 3
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "64aog9e7",
@@ -689,7 +710,8 @@
       "socket39476": 0,
       "socket84186": 8,
       "socket79929": 17
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "uhfzhiwo",
@@ -718,7 +740,8 @@
       "socket92976": 4,
       "socket94065": 3,
       "socket202": 3
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "s2ygel05",
@@ -747,7 +770,8 @@
       "socket16875": 18,
       "socket91364": 14,
       "socket12620": 18
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "rphwyiv9",
@@ -776,7 +800,8 @@
       "socket55638": 2,
       "socket46951": 7,
       "socket12762": 8
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "7wlx12or",
@@ -805,7 +830,8 @@
       "socket941": 15,
       "socket1900": 0,
       "socket83705": 10
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "4k0oexsh",
@@ -840,7 +866,8 @@
       "socket26163": 11,
       "socket43200": 8,
       "socket79620": 11
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "1n7amyxe",
@@ -863,7 +890,8 @@
     "scores": {
       "socket93259": 13,
       "socket8717": 15
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "re4akh7n",
@@ -886,7 +914,8 @@
     "scores": {
       "socket70628": 15,
       "socket37692": 17
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "j383nypp",
@@ -915,7 +944,8 @@
       "socket7322": 9,
       "socket29529": 7,
       "socket98969": 6
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "bmn3dyb1",
@@ -950,7 +980,8 @@
       "socket95874": 8,
       "socket93663": 18,
       "socket64768": 17
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "sv64d7jl",
@@ -979,7 +1010,8 @@
       "socket63175": 19,
       "socket77887": 0,
       "socket57948": 6
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "0hgi3kam",
@@ -1008,7 +1040,8 @@
       "socket28502": 11,
       "socket85097": 18,
       "socket28396": 6
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "47qvmwtu",
@@ -1043,7 +1076,8 @@
       "socket41187": 4,
       "socket26092": 13,
       "socket31571": 8
-    }
+    },
+    "state": "waiting"
   },
   {
     "roomID": "h03njqwz",
@@ -1630,7 +1664,8 @@
     "roundTime": 60,
     "scores": {
       "Raveesh": 0
-    }
+    },
+    "state": "started"
   },
   {
     "roomID": "besowb4k",
@@ -1640,5 +1675,55 @@
     "drawerSocketId": "",
     "roundTime": 60,
     "scores": {}
+  },
+  {
+    "roomID": "b5thq3sc",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {},
+    "state": "waiting"
+  },
+  {
+    "roomID": "u7ghzy7d",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {},
+    "state": "waiting"
+  },
+  {
+    "roomID": "ey0wv54r",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {},
+    "state": "waiting"
+  },
+  {
+    "roomID": "xm6frxgq",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {},
+    "state": "waiting"
+  },
+  {
+    "roomID": "jued6oh5",
+    "players": [],
+    "currentWord": "",
+    "round": 0,
+    "drawerSocketId": "",
+    "roundTime": 60,
+    "scores": {},
+    "state": "waiting"
   }
 ]
