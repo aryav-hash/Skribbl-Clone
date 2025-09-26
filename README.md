@@ -117,7 +117,7 @@ node server.js
   - `correctGuess`: Someone guesses the word
   - `chatUpdate`: Broadcast chat to room
 
-#### Optional/Advanced Real-time Features
+#### Advanced Real-time Features
 - `kickPlayer`: Kick a player from a room (admin/moderator only)
 - `changeSettings`: Change room settings (rounds, time, etc.)
 - `updateAvatar` / `fetchAvatar`: Profile/avatar customization (upload, fetch)
