@@ -4,13 +4,13 @@ const { createServer } = require('http');
 const { Server } = require('socket.io');
 const dotenv = require('dotenv').config();
 const cors = require('cors');
-const apiRoutes = require('./routes/Apis');
+const { router: apiRoutes, registerSocketEvents } = require('./routes/Apis');
 
 const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use('/api', apiRoutes);
+
 
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
@@ -31,12 +31,9 @@ const port = process.env.PORT || 5000;
 */
 
 
-io.on('connection', (socket) => {
-    console.log('A user connected', socket.id);
-    socket.on('disconnect', () => {
-        console.log('User disconnected', socket.id);
-    });
-});
+
+// Register real-time socket events
+registerSocketEvents(io);
 
 httpServer.listen(port, () => {
     console.log(`Server is running on port http://localhost:${port}`);

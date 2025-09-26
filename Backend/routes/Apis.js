@@ -403,4 +403,84 @@ router.route('/scores').get((req,res)=>{
   });
 });
 
-module.exports = router;
+
+function registerSocketEvents(io) {
+  // Room events
+  io.on('connection', (socket) => {
+    socket.on('joinRoom', ({ roomID, username }) => {
+      socket.join(roomID);
+      io.to(roomID).emit('chatUpdate', { message: `${username} joined the room.` });
+    });
+
+    socket.on('leaveRoom', ({ roomID, username }) => {
+      socket.leave(roomID);
+      io.to(roomID).emit('chatUpdate', { message: `${username} left the room.` });
+    });
+
+    // Drawing events
+    socket.on('draw', ({ roomID, data }) => {
+      socket.to(roomID).emit('draw', data);
+    });
+
+    socket.on('clearCanvas', (roomID) => {
+      io.to(roomID).emit('clearCanvas');
+    });
+
+    // Game events
+    socket.on('startGame', (roomID) => {
+      io.to(roomID).emit('startGame');
+    });
+
+    socket.on('nextTurn', (roomID) => {
+      io.to(roomID).emit('nextTurn');
+    });
+
+    socket.on('gameUpdate', ({ roomID, state }) => {
+      io.to(roomID).emit('gameUpdate', state);
+    });
+
+    socket.on('endGame', (roomID) => {
+      io.to(roomID).emit('endGame');
+    });
+
+    // Chat events
+    socket.on('sendMessage', ({ roomID, username, message }) => {
+      io.to(roomID).emit('chatUpdate', { username, message });
+    });
+
+    socket.on('correctGuess', ({ roomID, username }) => {
+      io.to(roomID).emit('correctGuess', { username });
+    });
+
+    // Kick player from room
+    socket.on('kickPlayer', ({ roomID, targetSocketId, by }) => {
+      io.to(targetSocketId).emit('kicked', { roomID, by });
+      io.to(roomID).emit('chatUpdate', { message: `${by} kicked a player.` });
+    });
+
+    socket.on('changeSettings', ({ roomID, settings }) => {
+      io.to(roomID).emit('settingsChanged', settings);
+    });
+
+    socket.on('updateAvatar', ({ roomID, username, avatarUrl }) => {
+      io.to(roomID).emit('avatarUpdated', { username, avatarUrl });
+    });
+
+    socket.on('fetchAvatar', ({ username }) => {
+      socket.emit('avatarData', { username, avatarUrl: null });
+    });
+
+    // Profanity filtering for messages
+    socket.on('sendMessageFiltered', ({ roomID, username, message }) => {
+      const badWords = ['badword1', 'badword2'];//update these with actual bad words
+      let cleanMessage = message;
+      for (const word of badWords) {
+        const regex = new RegExp(word, 'gi');
+        cleanMessage = cleanMessage.replace(regex, '****');
+      }
+      io.to(roomID).emit('chatUpdate', { username, message: cleanMessage });
+    });
+  });
+}
+
+module.exports = { router, registerSocketEvents };

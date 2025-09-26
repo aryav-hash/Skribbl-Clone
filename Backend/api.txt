@@ -28,17 +28,17 @@ Real-time Socket Events
 'joinRoom': User joins a room
 'leaveRoom': User leaves
 
-2.Drawing events
+2.Drawing events---------------->done
 'draw': Sends real-time drawing data to all clients
 'clearCanvas': Clears drawing board
 
-3.Game events
+3.Game events------------------>done
 'startGame': Begins the game
 'nextTurn': Assigns next drawing/guessing player
 'gameUpdate': Broadcast current round/game state
 'endGame': Signals game end
 
-4.Chat events
+4.Chat events------------------>done
 'sendMessage': Player sends chat/guess
 'correctGuess': Someone guesses the word
 'chatUpdate': Broadcast chat to room
